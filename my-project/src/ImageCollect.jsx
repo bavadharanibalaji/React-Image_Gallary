@@ -1,4 +1,3 @@
-import React from "react";
 
 function ImageCollect(props){
     let image = props.image;

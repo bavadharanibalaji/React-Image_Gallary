@@ -1,5 +1,6 @@
-import images from "./data"
-import ImageCollect from "./ImageCollect"
+import "./App.css";
+import images from "./data";
+import ImageCollect from "./ImageCollect";
 
 
 function App() {
@@ -16,4 +17,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
